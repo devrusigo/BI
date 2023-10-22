@@ -1,3 +1,2 @@
 # BI
 My BI projects
-...
